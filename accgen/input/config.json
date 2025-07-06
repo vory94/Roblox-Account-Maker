@@ -1,0 +1,13 @@
+{
+    "solverList": ["R", "F", "S", "C"],
+    "userType": "random",
+    "R_solverKey": "",
+    "F_solverKey": "",
+    "S_solverKey": "",
+    "C_solverKey": "",
+    "solver": "R",
+    "threads": 200,
+    "pwdPrefix": "GGdatabase",
+    "titleName": "GGdatabase",
+    "outputFormat": "USERNAME:PASSWORD:COOKIE"
+}
